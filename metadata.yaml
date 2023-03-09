@@ -1,0 +1,60 @@
+_repo: Prose-remains-of-Arthur-Hugh-Clough-with-a-selection-from-his-letters-and-a-memoir_70070
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clough, Arthur Hugh
+    alias: Clough, A. H. (Arthur Hugh)
+    birthdate: 1819
+    deathdate: 1861
+    gutenberg_agent_id: '343'
+    url: http://www.gutenberg.org/2009/agents/343
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Hugh_Clough
+  editor:
+    agent_name: Clough, A. H., Mrs.
+    aliases:
+    - Clough, B. (Blanche)
+    - Clough, Mrs. A. H.
+    - Clough, Blanch Smith
+    - Clough, Blanche Smith
+    - Smith, Blanche Mary Shore
+    birthdate: 1828
+    deathdate: 1904
+    gutenberg_agent_id: '55580'
+    url: http://www.gutenberg.org/2009/agents/55580
+description: ''
+gutenberg_issued: '2023-02-19'
+identifiers:
+  gutenberg: '70070'
+language: en
+pgterms:marc904: https://archive.org/details/poemsclou00clouuoft/page/n5/mode/2up
+pgterms:marc905: 20200331005054clough
+pgterms:marc906: '1888'
+pgterms:marc907: GB
+production_note: Emmanuel Ackerman, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bMacmillan and Co., $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcsh 'English literature -- 19th century'
+- !lcsh 'Clough, Arthur Hugh, 1819-1861'
+- !lcsh 'Clough, Arthur Hugh, 1819-1861 -- Correspondence'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: 'Memoir of Arthur Hugh Clough -- Letters from 1829 to 1836. Rugby
+  -- Letters from 1836 to 1849. Oxford -- Letters from 1849 to 1852. London -- Letters
+  from 1852 to 1853. America -- Letters from 1853 to 1861. London -- A consideration
+  of objections against the Retrenchment Association at Oxford during the Irish famine
+  in 1847 -- Lecture on the poetry of Wordsworth -- On the formation of classical
+  English: an extract from a lecture on Dryden -- Lecture on the development of English
+  literature from Chaucer to Wordsworth -- Review of some poems by Alexander Smith
+  and Matthew Arnold -- Letters of Parepidemus -- A passage upon Oxford studies: extracted
+  from a review of the Oxford University Commissioners'' report, 1852 -- Extracts
+  from a review of a work entitled ''Considerations on some recent social theories''
+  -- Notes on the religious tradition.'
+title: Prose remains of Arthur Hugh Clough, with a selection from his letters and
+  a memoir
+url: http://www.gutenberg.org/ebooks/70070
