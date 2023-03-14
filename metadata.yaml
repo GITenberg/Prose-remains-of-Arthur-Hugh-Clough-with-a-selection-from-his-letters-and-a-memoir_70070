@@ -1,5 +1,8 @@
 _repo: Prose-remains-of-Arthur-Hugh-Clough-with-a-selection-from-his-letters-and-a-memoir_70070
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70070-h/images/cover.jpg
 creator:
   author:
     agent_name: Clough, Arthur Hugh
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '55580'
     url: http://www.gutenberg.org/2009/agents/55580
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70070#Prose-remains-of-Arthur-Hugh-Clough-with-a-selection-from-his-letters-and-a-memoir
 gutenberg_issued: '2023-02-19'
 identifiers:
   gutenberg: '70070'
